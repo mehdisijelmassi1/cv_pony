@@ -46,7 +46,7 @@ h4 {
   margin: auto;
 }
 
-#logo-batch {
+#logo-pony {
   position: relative;
   bottom: 17px;
   left: 50px;
@@ -65,7 +65,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
-  border-left: 4px solid #00A1E0;
+  border-left: 4px solid #3ADCDA;
 }
 
 .card-white > h4 {
@@ -78,7 +78,7 @@ h4 {
 
 
 .btn-rose {
-  background-color: #00A1E0;
+  background-color: #3ADCDA;
   color: white;
   padding: 16px;
   line-height: 50px;
@@ -235,7 +235,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   list-style: none;
-  border-left: 4px solid #00A1E0;
+  border-left: 4px solid #3ADCDA;
 }
 
 .educational > h4 {
